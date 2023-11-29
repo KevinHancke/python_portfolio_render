@@ -1,4 +1,5 @@
 Requests==2.31.0
 streamlit==1.12.2
 streamlit_lottie==0.0.5
-altair==4.0.0
+altair==5.2.0
+typing_extensions==4.3.0
