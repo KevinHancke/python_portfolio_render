@@ -3,16 +3,9 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 from typing_extensions import Literal
 
+
 #Page config
 st.set_page_config(page_title="My Portfolio", page_icon=":ringed_planet:", layout="wide")
-
-hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 #Load Assets
 
