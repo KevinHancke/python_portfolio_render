@@ -1,6 +1,7 @@
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
+from typing_extensions import Literal
 
 #Page config
 st.set_page_config(page_title="My Portfolio", page_icon=":ringed_planet:", layout="wide")
