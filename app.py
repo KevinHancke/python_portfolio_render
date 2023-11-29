@@ -1,7 +1,6 @@
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
-from PIL import Image
 
 #Page config
 st.set_page_config(page_title="My Portfolio", page_icon=":ringed_planet:", layout="wide")
